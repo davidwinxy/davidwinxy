@@ -1,7 +1,8 @@
 
 
 
-<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px">Benvenido</img> 
+<img align="center" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> 
+<p align="center">Benvenido</p>
 
 <table align="center">
 <tr border="none">
